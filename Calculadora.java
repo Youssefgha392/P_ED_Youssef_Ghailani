@@ -27,3 +27,7 @@ private int ans;
          return ans;
     }
 }
+
+public int suma(int a, int b){
+return a+b;
+}
